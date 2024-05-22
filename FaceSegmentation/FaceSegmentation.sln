@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FaceSegmentation", "FaceSegmentation\FaceSegmentation.pyproj", "{EA7D430A-9ABE-4A5D-976B-53ED5E66F621}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA7D430A-9ABE-4A5D-976B-53ED5E66F621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7D430A-9ABE-4A5D-976B-53ED5E66F621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {698D4564-534D-4169-81DD-8678EE843F51}
+	EndGlobalSection
+EndGlobal
